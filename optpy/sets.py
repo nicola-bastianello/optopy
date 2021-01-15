@@ -9,7 +9,7 @@ Set template and examples.
 import numpy as np
 from numpy import linalg as la
 
-from optpy import utils
+from optopy import utils
 
 
 #%% SET TEMPLATES

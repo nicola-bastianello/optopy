@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 ran = default_rng()
 
 
-from optpy import utils, costs, solvers
+from optopy import utils, costs, solvers
 
 
 

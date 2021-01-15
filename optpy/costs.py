@@ -11,7 +11,7 @@ from numpy import linalg as la
 from scipy.special import binom
 from functools import partial, partialmethod
 
-from optpy import solvers, sets, utils
+from optopy import solvers, sets, utils
 
 
 

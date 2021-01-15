@@ -7,7 +7,7 @@ Cost prediction tools.
 
 import numpy as np
 
-from optpy import costs
+from optopy import costs
 
 
 #%% PREDICTION TEMPLATE

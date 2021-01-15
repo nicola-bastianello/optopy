@@ -8,7 +8,7 @@ Solvers.
 import numpy as np
 from numpy import linalg as la
 
-from optpy import utils, costs
+from optopy import utils, costs
 
 
 #%% FIRST ORDER METHODS

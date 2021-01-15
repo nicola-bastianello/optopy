@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 ran = default_rng()
 
 
-from optpy import utils, costs, networks, distributed_solvers
+from optopy import utils, costs, networks, distributed_solvers
 
 
 #%% GENERATE PROBLEM (PRIMAL SOLVERS)

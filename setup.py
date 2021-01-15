@@ -7,14 +7,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="", # Replace with your own username
+    name="optopy", # Replace with your own username
     version="0.1.0",
     author="Nicola Bastianello",
     author_email="nicola.bastianello.3@phd.unipd.it",
-    description="optpy",
+    description="optopy",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nicola-bastianello/optpy",
+    url="https://github.com/nicola-bastianello/optopy",
     packages=setuptools.find_packages(),
     install_requires=[
         'numpy>=1.19',

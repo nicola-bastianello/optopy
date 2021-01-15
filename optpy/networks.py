@@ -13,7 +13,7 @@ from functools import partialmethod
 
 ran = default_rng() # random generator
 
-from optpy import sets, utils
+from optopy import sets, utils
 
 
 #%% NETWORK CLASSES

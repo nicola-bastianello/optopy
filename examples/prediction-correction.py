@@ -8,7 +8,7 @@ Prediction-correction online optimization.
 import numpy as np
 import matplotlib.pyplot as plt
 
-from optpy import costs, prediction, solvers, utils
+from optopy import costs, prediction, solvers, utils
 
 
 #%% PROBLEM & PARAMETERS

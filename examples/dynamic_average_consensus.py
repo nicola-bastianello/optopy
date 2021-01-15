@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 ran = default_rng()
 
 
-from optpy import networks
+from optopy import networks
 
 
 #%% PROBLEM FORMULATION

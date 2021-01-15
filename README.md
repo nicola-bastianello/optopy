@@ -1,24 +1,24 @@
-# Welcome to **optpy** [![Documentation Status](https://readthedocs.org/projects/optpy/badge/?version=latest)](https://optpy.readthedocs.io/en/latest/?badge=latest)
-[**Docs**](https://optpy.readthedocs.io/en/latest/)
+# Welcome to **optopy** [![Documentation Status](https://readthedocs.org/projects/optopy/badge/?version=latest)](https://optopy.readthedocs.io/en/latest/?badge=latest)
+[**Docs**](https://optopy.readthedocs.io/en/latest/)
 | [**Installation**](#installation)
 | [**Cite**](#cite)
 
 
-At present, **optpy** is a clone of [**tvopt**](https://github.com/nicola-bastianello/tvopt), but in the future it will include more functionalities, with the goal of delivering a module suited to the benchmarking of both *static* and *dynamic* optimization algorithms.
+At present, **optopy** is a clone of [**tvopt**](https://github.com/nicola-bastianello/tvopt), but in the future it will include more functionalities, with the goal of delivering a module suited to the benchmarking of both *static* and *dynamic* optimization algorithms.
 
 **tvopt** is a prototyping and benchmarking Python framework for time-varying (or online) optimization. The framework is modular,
 and provides different tools for modeling dynamic optimization problems and to solve them with a wide range of well known
 algorithms.
 
-The documentation is available [here](https://optpy.readthedocs.io/en/latest/).
+The documentation is available [here](https://optopy.readthedocs.io/en/latest/).
  
 
 ## Installation
-**optpy** works on Python 3.7 and depends on: numpy, scipy.
+**optopy** works on Python 3.7 and depends on: numpy, scipy.
 
 ### pip installation
 ```
-pip install optpy
+pip install optopy
 ```
 
 ## Cite
@@ -36,5 +36,5 @@ See *tvopt* and relative reference:
 ```
 
 ## Author
-**optpy** is developed by
+**optopy** is developed by
 [Nicola Bastianello](https://nicola-bastianello.github.io)

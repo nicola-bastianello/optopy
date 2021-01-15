@@ -11,7 +11,7 @@ from numpy.random import default_rng
 
 ran = default_rng() # random generator
 
-from optpy import costs, solvers
+from optopy import costs, solvers
 
 
 #%% CONSENSUS METHODS
