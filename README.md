@@ -1,6 +1,6 @@
 ![banner](https://github.com/nicola-bastianello/optopy/blob/main/images/OPTOPY%201900x600.png)
 
-# Welcome to **optopy** [![Documentation Status](https://readthedocs.org/projects/optopy/badge/?version=latest)](https://optopy.readthedocs.io/en/latest/?badge=latest) [![This Repository uses a generated Social Preview from @pqt/social-preview](https://img.shields.io/badge/%E2%9C%93-Social%20Preview-blue)](https://github.com/pqt/social-preview)
+# Welcome to **optopy** [![Documentation Status](https://readthedocs.org/projects/optopy/badge/?version=latest)](https://optopy.readthedocs.io/en/latest/?badge=latest)
 [**Docs**](https://optopy.readthedocs.io/en/latest/)
 | [**Installation**](#installation)
 | [**Cite**](#cite)
