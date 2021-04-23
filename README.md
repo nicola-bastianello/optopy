@@ -39,4 +39,4 @@ See *tvopt* and relative reference:
 
 ## Author
 **optopy** is developed by
-[Nicola Bastianello](https://nicola-bastianello.github.io)
+[Nicola Bastianello](https://nicola-bastianello.it)
